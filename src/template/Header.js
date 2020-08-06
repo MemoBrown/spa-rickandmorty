@@ -3,8 +3,8 @@ const Header = () => {
     <div class="Header-main">
       <div class="Header-logo">
         <h1>
-          <a href="/">
-            100tifi.co
+          <a href="#/">
+            <img src="https://i.imgur.com/RKMki7C.png" width="400px">
           </a>
         </h1>
       </div>
